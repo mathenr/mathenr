@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mathenr
 - 👀 I’m interested in Java and Android Development.
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning Java and Kotlin.
 - 💞️ I’m looking to collaborate on development and agile skills.
 - 📫 How to reach me on:
 - Instagram: @henrimendss
